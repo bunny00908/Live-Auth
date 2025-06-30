@@ -5,12 +5,12 @@ from cfonts import render
 from datetime import datetime
 
 # ==== CONFIG ====
-api_id = 1234567  # Your Telegram api_id (integer)
-api_hash = 'YOUR_API_HASH'  # Your Telegram api_hash
-phone_number = '+1234567890'  # Your Telegram phone number (with country code)
-bot_token = 'YOUR_BOT_TOKEN'  # Your Telegram bot token (from BotFather)
-source_channel = '@yourchannel'  # Username or ID of the channel/group to listen to (MUST BE JOINED)
-private_channel_id = -1001234567890  # ID of the channel to drop approvals (bot must be admin here)
+api_id = 29569239  # Your Telegram api_id (integer)
+api_hash = 'b2407514e15f24c8ec2c735e8018acd7'  # Your Telegram api_hash
+phone_number = '+254780855836'  # Your Telegram phone number (with country code)
+bot_token = '8065916669:AAHLmc9TMnZb7QHv2B7pEYB3O7cKuk0HrUA'  # Your Telegram bot token (from BotFather)
+source_channel = '@vjjgjjjnv'  # Username or ID of the channel/group to listen to (MUST BE JOINED)
+private_channel_id = -1002336223485  # ID of the channel to drop approvals (bot must be admin here)
 
 kk = "qwertyuiolmkjnhbgvfcdxszaQWEAERSTSGGZJDNFMXLXLVKPHPY1910273635519"
 print(render('M.SALAH', colors=['white', 'white'], align='center'))
